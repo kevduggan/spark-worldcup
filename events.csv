@@ -1,0 +1,1019 @@
+id,player,team,type,created_at,match_id
+677,BrozoviĆ,CRO,substitution-in,1402607760000,1
+674,Corluka,CRO,yellow-card,1402608060000,1
+675,Lovren,CRO,yellow-card,1402608240000,1
+676,RebiĆ,CRO,substitution-in,1402608780000,1
+686,Nounkeu,CMR,substitution-in halftime,1402678860000,2
+688,Nounkeu,CMR,yellow-card,1402680720000,2
+687,Webo,CMR,substitution-in,1402680840000,2
+700,De Guzman,NED,yellow-card,1402687500000,3
+697,De Vrij,NED,yellow-card,1402688460000,3
+702,V. Persie,NED,goal,1402688640000,3
+706,Robben,NED,goal,1402690080000,3
+701,Wijnaldum,NED,substitution-in,1402690620000,3
+698,De Vrij,NED,goal,1402690800000,3
+703,V. Persie,NED,yellow-card,1402690860000,3
+704,V. Persie,NED,goal,1402691220000,3
+699,Veltman,NED,substitution-in,1402691520000,3
+705,Lens,NED,substitution-in,1402691640000,3
+707,Robben,NED,goal,1402691700000,3
+719,Cahill,AUS,goal,1402698900000,4
+720,Cahill,AUS,yellow-card,1402699440000,4
+718,Mcgowan,AUS,substitution-in,1402700640000,4
+723,Jedinak,AUS,yellow-card,1402701180000,4
+721,Milligan,AUS,yellow-card,1402701720000,4
+722,Halloran,AUS,substitution-in,1402701780000,4
+724,Troisi,AUS,substitution-in,1402702380000,4
+739,Sokratis,GRE,yellow-card,1402765620000,5
+736,Salpingidis,GRE,yellow-card,1402765800000,5
+737,Fetfatzidis,GRE,substitution-in,1402765920000,5
+738,Mitroglou,GRE,substitution-in,1402766340000,5
+735,Karagounis,GRE,substitution-in,1402767180000,5
+767,Honda,JPN,goal,1402794960000,6
+772,Yoshida,JPN,yellow-card,1402795380000,6
+770,Endo,JPN,substitution-in,1402798140000,6
+768,Morishige,JPN,yellow-card,1402798740000,6
+771,Okubo,JPN,substitution-in,1402798920000,6
+769,Kakitani,JPN,substitution-in,1402800540000,6
+753,Campbell J.,CRC,goal,1402776540000,7
+751,Duarte O.,CRC,goal,1402776720000,7
+755,Cubero J.,CRC,substitution-in,1402777740000,7
+754,UreÑa M.,CRC,substitution-in,1402778760000,7
+756,UreÑa M.,CRC,goal,1402778820000,7
+752,Barrantes M.,CRC,substitution-in,1402779120000,7
+658,Marchisio,ITA,goal,1402785300000,8
+659,Balotelli,ITA,goal,1402787100000,8
+661,Thiago Motta,ITA,substitution-in,1402787520000,8
+660,Immobile,ITA,substitution-in,1402788480000,8
+657,Parolo,ITA,substitution-in,1402788840000,8
+783,E. Valencia,ECU,goal,1402849320000,9
+780,Paredes,ECU,yellow-card,1402852080000,9
+782,Arroyo,ECU,substitution-in,1402853100000,9
+781,Rojas,ECU,substitution-in,1402853520000,9
+797,W. Palacios,HON,yellow-card,1402860480000,10
+798,W. Palacios,HON,yellow-card-second,1402861380000,10
+799,Boniek,HON,substitution-in halftime,1402862460000,10
+796,O. Chavez,HON,substitution-in halftime,1402862460000,10
+795,Valladares,HON,goal-own,1402862580000,10
+802,Boniek,HON,yellow-card,1402862880000,10
+800,Claros,HON,substitution-in,1402863180000,10
+801,Garrido,HON,yellow-card,1402865160000,10
+812,KolaŠinac,BIH,goal-own,1402869780000,11
+811,SpahiĆ,BIH,yellow-card,1402874280000,11
+814,IbiŠeviĆ,BIH,substitution-in,1402874640000,11
+815,ViŠĆa,BIH,substitution-in,1402874760000,11
+813,Medunjanin,BIH,substitution-in,1402874940000,11
+816,IbiŠeviĆ,BIH,goal,1402876080000,11
+838,Yobo,NGA,substitution-in,1402946940000,12
+837,Ameobi,NGA,substitution-in,1402949220000,12
+839,Odemwingie,NGA,substitution-in,1402950240000,12
+831,J. Pereira,POR,yellow-card,1402935060000,13
+830,Éder,POR,substitution-in,1402936080000,13
+827,Pepe,POR,red-card,1402936620000,13
+828,R. Costa,POR,substitution-in halftime,1402938060000,13
+829,A. Almeida,POR,substitution-in,1402939200000,13
+850,Dempsey,USA,goal,1402956060000,14
+852,Johannsson,USA,substitution-in,1402957380000,14
+849,Brooks,USA,substitution-in halftime,1402959660000,14
+851,Zusi,USA,substitution-in,1402961520000,14
+853,Brooks,USA,goal,1402962540000,14
+860,Feghouli,ALG,goal-penalty,1403022300000,15
+862,Bentaleb,ALG,yellow-card,1403022840000,15
+863,Slimani,ALG,substitution-in,1403025660000,15
+864,Lacen,ALG,substitution-in,1403025960000,15
+861,Ghilas,ALG,substitution-in,1403027220000,15
+429,H M Son,KOR,yellow-card,1403043180000,16
+433,S Y Ki,KOR,yellow-card,1403044200000,16
+431,K H Lee,KOR,substitution-in,1403046660000,16
+435,K H Lee,KOR,goal,1403047380000,16
+434,S H Hwang,KOR,substitution-in,1403047680000,16
+430,B K Kim,KOR,substitution-in,1403048820000,16
+432,J C Koo,KOR,yellow-card,1403049180000,16
+419,P Aguilar,MEX,yellow-card,1403036040000,17
+420,J Vazquez,MEX,yellow-card,1403036220000,17
+418,J Hernandez,MEX,substitution-in,1403036940000,17
+868,M Fabian,MEX,substitution-in,1403037060000,17
+417,R Jimenez,MEX,substitution-in,1403038020000,17
+477,OliĆ,CRO,goal,1403129460000,18
+473,PeriŠiĆ,CRO,goal,1403132580000,18
+475,MandŽukiĆ,CRO,goal,1403133360000,18
+478,Eduardo,CRO,substitution-in,1403133840000,18
+479,KovaČiĆ,CRO,substitution-in,1403134020000,18
+476,MandŽukiĆ,CRO,goal,1403134080000,18
+474,RebiĆ,CRO,substitution-in,1403134380000,18
+480,Eduardo,CRO,yellow-card,1403135520000,18
+462,Vargas,CHI,goal,1403119200000,19
+460,Vidal,CHI,yellow-card,1403119560000,19
+464,Ch. ArÁnguiz,CHI,goal,1403120580000,19
+459,Mena,CHI,yellow-card,1403122560000,19
+465,GutiÉrrez,CHI,substitution-in,1403122740000,19
+463,Valdivia,CHI,substitution-in,1403124480000,19
+461,Carmona,CHI,substitution-in,1403124660000,19
+450,Robben,NED,goal,1403108400000,20
+445,Memphis,NED,substitution-in,1403110980000,20
+447,V. Persie,NED,yellow-card,1403110920000,20
+448,V. Persie,NED,goal,1403111580000,20
+451,Memphis,NED,goal,1403112180000,20
+446,Wijnaldum,NED,substitution-in,1403112780000,20
+449,Lens,NED,substitution-in,1403113800000,20
+489,Zokora,CIV,yellow-card,1403197800000,21
+492,Drogba,CIV,substitution-in,1403198100000,21
+493,Kalou,CIV,substitution-in,1403198520000,21
+494,Bolly,CIV,substitution-in,1403198880000,21
+491,Gervinho,CIV,goal,1403198880000,21
+490,Tiote,CIV,yellow-card,1403200380000,21
+519,Katsouranis,GRE,yellow-card,1403216820000,22
+516,Gekas,GRE,substitution-in,1403217300000,22
+520,Katsouranis,GRE,yellow-card-second,1403217480000,22
+518,Karagounis,GRE,substitution-in,1403217660000,22
+514,Samaras,GRE,yellow-card,1403219400000,22
+515,Salpingidis,GRE,substitution-in,1403221440000,22
+517,Torosidis,GRE,yellow-card,1403221920000,22
+508,Barkley,ENG,substitution-in,1403209140000,23
+504,Gerrard,ENG,yellow-card,1403209380000,23
+506,Lallana,ENG,substitution-in,1403209560000,23
+505,Rooney,ENG,goal,1403209800000,23
+507,Lambert,ENG,substitution-in,1403211000000,23
+529,Ruiz B.,CRC,goal,1403282640000,24
+531,Cubero J.,CRC,substitution-in,1403284980000,24
+532,Cubero J.,CRC,yellow-card,1403285160000,24
+528,UreÑa M.,CRC,substitution-in,1403285340000,24
+530,Brenes R.,CRC,substitution-in,1403286240000,24
+545,Giroud,FRA,goal,1403291820000,25
+549,Matuidi,FRA,goal,1403291880000,25
+547,Benzema,FRA,penalty-wrong,1403292720000,25
+543,Valbuena,FRA,goal,1403293200000,25
+546,Pogba,FRA,substitution-in,1403295480000,25
+541,Koscielny,FRA,substitution-in,1403295660000,25
+548,Benzema,FRA,goal,1403295720000,25
+550,Sissoko,FRA,goal,1403296080000,25
+544,Griezmann,FRA,substitution-in,1403297100000,25
+542,Cabaye,FRA,yellow-card,1403297460000,25
+563,E. Valencia,ECU,goal,1403303640000,26
+567,A. Valencia,ECU,yellow-card,1403305920000,26
+564,E. Valencia,ECU,goal,1403306400000,26
+565,E. Valencia,ECU,yellow-card,1403306880000,26
+560,Montero,ECU,yellow-card,1403307300000,26
+562,Mendez,ECU,substitution-in,1403307900000,26
+566,Gruezo,ECU,substitution-in,1403307960000,26
+561,Achilier,ECU,substitution-in,1403308500000,26
+576,J. Nekounam,IRN,yellow-card,1403370480000,27
+577,Masoud. Sh,IRN,yellow-card,1403371680000,27
+578,Kh. Heydari,IRN,substitution-in,1403371860000,27
+579,Alireza,IRN,substitution-in,1403372880000,27
+575,R. Haghighi,IRN,substitution-in,1403373060000,27
+601,Medunjanin,BIH,yellow-card,1403388360000,28
+603,IbiŠeviĆ,BIH,substitution-in,1403392320000,28
+600,SalihoviĆ,BIH,substitution-in,1403392380000,28
+602,SuŠiĆ,BIH,substitution-in,1403392740000,28
+590,J. Ayew,GHA,substitution-in,1403381220000,29
+591,A. Ayew,GHA,goal,1403381340000,29
+588,A. Gyan,GHA,goal,1403381880000,29
+589,Wakaso,GHA,substitution-in,1403382420000,29
+593,Badu,GHA,substitution-in,1403382780000,29
+592,Muntari,GHA,yellow-card,1403384220000,29
+645,Nani,POR,goal,1403474700000,30
+647,Éder,POR,substitution-in,1403475360000,30
+646,William,POR,substitution-in halftime,1403478060000,30
+644,Varela,POR,substitution-in,1403479440000,30
+648,Varela,POR,goal,1403481480000,30
+614,Glushakov,RUS,yellow-card,1403455080000,31
+613,Eshchenko,RUS,substitution-in,1403457420000,31
+615,Dzagoev,RUS,substitution-in,1403459160000,31
+616,Kerzhakov,RUS,substitution-in,1403459580000,31
+632,Slimani,ALG,goal,1403465160000,32
+629,Halliche,ALG,goal,1403465280000,32
+633,Djabou,ALG,goal,1403465880000,32
+630,Brahimi,ALG,goal,1403468220000,32
+627,Bouguerra,ALG,yellow-card,1403468520000,32
+634,Ghilas,ALG,substitution-in,1403468880000,32
+631,Lacen,ALG,substitution-in,1403469120000,32
+628,Belkalem,ALG,substitution-in,1403470320000,32
+899,Neymar Jr,BRA,goal,1403554620000,33
+901,Neymar Jr,BRA,goal,1403555700000,33
+903,Fernandinho,BRA,substitution-in halftime,1403557260000,33
+904,Fred,BRA,goal,1403557440000,33
+910,Ramires,BRA,substitution-in,1403558280000,33
+917,Willian,BRA,substitution-in,1403558760000,33
+928,Fernandinho,BRA,goal,1403560020000,33
+902,R Marquez,MEX,yellow-card,1403555940000,34
+909,J Hernandez,MEX,substitution-in,1403558220000,34
+911,J Vazquez,MEX,yellow-card,1403558460000,34
+914,R Marquez,MEX,goal,1403558820000,34
+920,A Guardado,MEX,goal,1403559000000,34
+922,C PeÑa,MEX,substitution-in,1403559240000,34
+924,J Hernandez,MEX,goal,1403559900000,34
+927,M Fabian,MEX,substitution-in,1403560020000,34
+870,David Villa,ESP,goal,1403541360000,35
+874,Mata,ESP,substitution-in,1403543460000,35
+877,Ramos,ESP,yellow-card,1403543820000,35
+880,FÁbregas,ESP,substitution-in,1403544180000,35
+879,Torres,ESP,goal,1403544240000,35
+891,Mata,ESP,goal,1403545500000,35
+890,Silva,ESP,substitution-in,1403545560000,35
+869,Silva,CHI,yellow-card,1403540700000,36
+873,Beausejour,CHI,substitution-in halftime,1403542860000,36
+883,Valdivia,CHI,substitution-in,1403544300000,36
+889,Pinilla,CHI,substitution-in,1403545440000,36
+962,Cuadrado,COL,goal-penalty,1403641020000,37
+969,James,COL,substitution-in halftime,1403643660000,37
+968,C. Carbonero,COL,substitution-in halftime,1403643660000,37
+998,Quintero,COL,substitution-out halftime,1403643660000,37
+997,Cuadrado,COL,substitution-out halftime,1403643660000,37
+970,Jackson M.,COL,goal,1403644200000,37
+975,Guarin,COL,yellow-card,1403644680000,37
+983,Jackson M.,COL,goal,1403646300000,37
+987,Mondragon,COL,substitution-in,1403646480000,37
+996,Ospina,COL,substitution-out,1403646480000,37
+988,James,COL,goal,1403646780000,37
+965,Drogba,CIV,yellow-card,1403642220000,38
+971,B. Wilfried,CIV,substitution-in,1403644560000,38
+999,Tiote,CIV,substitution-out,1403644560000,38
+972,Kalou,CIV,yellow-card,1403644620000,38
+978,Serey Die,CIV,yellow-card,1403645100000,38
+979,B. Wilfried,CIV,goal,1403645340000,38
+982,Diomande,CIV,substitution-in,1403645580000,38
+1001,Drogba,CIV,substitution-out,1403645580000,38
+1000,Gervinho,CIV,substitution-out,1403646360000,38
+984,Sio,CIV,substitution-in,1403646360000,38
+936,E. Arevalo Rios,URU,yellow-card,1403629260000,39
+935,M. Pereira,URU,substitution-in halftime,1403629260000,39
+992,N. Lodeiro,URU,substitution-out halftime,1403629260000,39
+990,A. Pereira,URU,substitution-out,1403630280000,39
+943,C. Stuani,URU,substitution-in,1403630280000,39
+991,C. Rodriguez,URU,substitution-out,1403631180000,39
+955,G. Ramirez,URU,substitution-in,1403631180000,39
+956,D. Godin,URU,goal,1403631840000,39
+958,F. Muslera,URU,yellow-card,1403632440000,39
+941,Barkley,ENG,yellow-card,1403629680000,40
+940,Lallana,ENG,yellow-card,1403629920000,40
+942,Sterling,ENG,substitution-in,1403630220000,40
+995,Lallana,ENG,substitution-out,1403630220000,40
+948,Gerrard,ENG,substitution-in,1403630880000,40
+993,Wilshere,ENG,substitution-out,1403630880000,40
+953,Rooney,ENG,substitution-in,1403631060000,40
+994,Milner,ENG,substitution-out,1403631060000,40
+1037,Shaqiri,SUI,goal,1403726760000,41
+1038,Shaqiri,SUI,goal,1403728260000,41
+1051,Shaqiri,SUI,goal,1403731560000,41
+1052,Drmic,SUI,substitution-out,1403731680000,41
+1053,Seferovic,SUI,substitution-in,1403731680000,41
+1056,Xhaka,SUI,substitution-out,1403731920000,41
+1057,Lang,SUI,substitution-in,1403731920000,41
+1065,Shaqiri,SUI,substitution-out,1403733000000,41
+1066,Dzemaili,SUI,substitution-in,1403733000000,41
+1044,Sakho,FRA,substitution-out,1403730960000,42
+1045,Varane,FRA,substitution-in,1403730960000,42
+1049,Matuidi,FRA,substitution-out,1403731320000,42
+1050,Giroud,FRA,substitution-in,1403731320000,42
+1058,Griezmann,FRA,substitution-out,1403732040000,42
+1059,Remy,FRA,substitution-in,1403732040000,42
+1002,Messi,ARG,goal,1403712180000,43
+1005,Aguero,ARG,substitution-out,1403714280000,43
+1006,Lavezzi,ARG,substitution-in,1403714280000,43
+1007,Messi,ARG,goal,1403715660000,43
+1012,Rojo,ARG,goal,1403715900000,43
+1019,Messi,ARG,substitution-out,1403716680000,43
+1020,Alvarez,ARG,substitution-in,1403716680000,43
+1035,Higuain,ARG,substitution-out,1403718840000,43
+1036,Biglia,ARG,substitution-in,1403718840000,43
+1009,Kh. Heydari,IRN,substitution-in halftime,1403715660000,44
+1008,Masoud. Sh,IRN,substitution-out halftime,1403715660000,44
+1018,Alireza,IRN,substitution-in,1403716680000,44
+1017,Haji Safi,IRN,substitution-out,1403716680000,44
+1024,Karim,IRN,substitution-in,1403716980000,44
+1023,Dejagah,IRN,substitution-out,1403716980000,44
+1030,Reza,IRN,goal,1403718300000,44
+1034,Karim,IRN,yellow-card,1403718660000,44
+1067,HÖwedes,GER,yellow-card,1403799060000,45
+1072,Klose,GER,substitution-in halftime,1403802060000,45
+1071,Podolski,GER,substitution-out halftime,1403802060000,45
+1073,MÜller,GER,goal,1403802600000,45
+1088,GÖtze,GER,substitution-in,1403803860000,45
+1087,Schweinsteiger,GER,substitution-out,1403803860000,45
+1095,Özil,GER,substitution-out,1403805120000,45
+1096,SchÜrrle,GER,substitution-in,1403805120000,45
+1068,Boye,GHA,goal-own,1403800260000,46
+1070,Harrison,GHA,yellow-card,1403800740000,46
+1074,Waris,GHA,yellow-card,1403802600000,46
+1075,A. Gyan,GHA,goal,1403802720000,46
+1083,Waris,GHA,substitution-out,1403803560000,46
+1084,J. Ayew,GHA,substitution-in,1403803560000,46
+1085,Rabiu,GHA,substitution-out,1403803860000,46
+1086,Acquah,GHA,substitution-in,1403803860000,46
+1089,J. Ayew,GHA,yellow-card,1403803980000,46
+1091,A. Ayew,GHA,substitution-out,1403804640000,46
+1092,Wakaso,GHA,substitution-in,1403804640000,46
+1103,Defour,BEL,red-card,1403815500000,47
+1108,Dembele,BEL,yellow-card,1403816700000,47
+1110,Mertens,BEL,substitution-out,1403817300000,47
+1111,Origi,BEL,substitution-in,1403817300000,47
+1114,Chadli,BEL,substitution-in,1403817300000,47
+1113,Januzaj,BEL,substitution-out,1403817300000,47
+1126,Vertonghen,BEL,goal,1403818380000,47
+1130,Mirallas,BEL,substitution-out,1403819460000,47
+1131,E.Hazard,BEL,substitution-in,1403819460000,47
+1100,Kokorin,RUS,goal,1403813160000,48
+1104,Glushakov,RUS,substitution-out halftime,1403816460000,48
+1105,Denisov,RUS,substitution-in halftime,1403816460000,48
+1109,D. Kombarov,RUS,yellow-card,1403817120000,48
+1112,Kozlov,RUS,yellow-card,1403817240000,48
+1118,Shatov,RUS,substitution-out,1403817720000,48
+1119,Dzagoev,RUS,substitution-in,1403817720000,48
+1127,Kerzhakov,RUS,substitution-out,1403819040000,48
+1128,Kanunnikov,RUS,substitution-in,1403819040000,48
+1135,Mena,CHI,yellow-card,1403972220000,49
+1137,Alexis,CHI,goal,1403973120000,49
+1138,Silva,CHI,yellow-card,1403973600000,49
+1141,GutiÉrrez,CHI,substitution-in,1403975520000,49
+1140,Vargas,CHI,substitution-out,1403975520000,49
+1148,Pinilla,CHI,substitution-in,1403977800000,49
+1147,Vidal,CHI,substitution-out,1403977800000,49
+1150,Pinilla,CHI,yellow-card,1403978700000,49
+1154,Medel,CHI,substitution-out,1403979060000,49
+1155,Rojas,CHI,substitution-in,1403979060000,49
+1158,A. Pereira,URU,substitution-out,1403989680000,50
+1159,D. Forlan,URU,substitution-out,1403989680000,50
+1160,C. Stuani,URU,substitution-in,1403989680000,50
+1161,G. Ramirez,URU,substitution-in,1403989680000,50
+1162,J.M. Gimenez,URU,yellow-card,1403989800000,50
+1165,A. Gonzalez,URU,substitution-out,1403990520000,50
+1166,A. Hernandez,URU,substitution-in,1403990520000,50
+1168,D. Lugano,URU,yellow-card,1403991120000,50
+1176,D. Reyes,MEX,substitution-in halftime,1404061260000,51
+1175,H. Moreno,MEX,substitution-out halftime,1404061260000,51
+1177,G. Dos Santos,MEX,goal,1404061380000,51
+1181,J. Aquino,MEX,substitution-in,1404062160000,51
+1180,G. Dos Santos,MEX,substitution-out,1404062160000,51
+1182,P. Aguilar,MEX,yellow-card,1404062640000,51
+1185,O. Peralta,MEX,substitution-out,1404063000000,51
+1186,J. Hernandez,MEX,substitution-in,1404063000000,51
+1188,R. Marquez,MEX,yellow-card,1404064500000,51
+1190,A. Guardado,MEX,yellow-card,1404064560000,51
+1191,Samaris,GRE,yellow-card,1404074160000,52
+1196,Samaris,GRE,substitution-out,1404076380000,52
+1197,Mitroglou,GRE,substitution-in,1404076380000,52
+1201,Salpingidis,GRE,substitution-out,1404077040000,52
+1202,Gekas,GRE,substitution-in,1404077040000,52
+1204,Manolas,GRE,yellow-card,1404077220000,52
+1207,Maniatis,GRE,substitution-out,1404077580000,52
+1208,Katsouranis,GRE,substitution-in,1404077580000,52
+1212,Sokratis,GRE,goal,1404078840000,52
+1214,Onazi,NGA,substitution-out,1404148440000,53
+1215,Gabriel,NGA,substitution-in,1404148440000,53
+1220,Nwofor,NGA,substitution-in,1404150720000,53
+1219,Moses,NGA,substitution-out,1404150720000,53
+1221,Yobo,NGA,goal-own,1404150900000,53
+1224,Halliche,ALG,yellow-card,1404160920000,54
+1229,Taider,ALG,substitution-out,1404163980000,54
+1230,Brahimi,ALG,substitution-in,1404163980000,54
+1234,Brahimi,ALG,substitution-in,1404163980000,54
+1233,Taider,ALG,substitution-out,1404163980000,54
+1237,Bouguerra,ALG,substitution-in,1404165600000,54
+1236,Halliche,ALG,substitution-out,1404165600000,54
+1238,Soudani,ALG,substitution-out,1404165780000,54
+1239,Djabou,ALG,substitution-in,1404165780000,54
+1244,Djabou,ALG,goal,1404167220000,54
+1249,Djabou,ALG,goal,1404167040000,54
+1250,Xhaka,SUI,yellow-card,1404232560000,55
+1251,Xhaka,SUI,substitution-out,1404235260000,55
+1252,Fernandes,SUI,substitution-in,1404235260000,55
+1255,Fernandes,SUI,yellow-card,1404235680000,55
+1257,Seferovic,SUI,substitution-in,1404236700000,55
+1256,Drmic,SUI,substitution-out,1404236700000,55
+1263,Mehmedi,SUI,substitution-out,1404238560000,55
+1264,Dzemaili,SUI,substitution-in,1404238560000,55
+1268,Cameron,USA,yellow-card,1404245880000,56
+1269,Johnson,USA,substitution-out,1404246720000,56
+1270,Yedlin,USA,substitution-in,1404246720000,56
+1274,Zusi,USA,substitution-out,1404250020000,56
+1275,Wondolowski,USA,substitution-in,1404250020000,56
+1280,Bedoya,USA,substitution-out,1404252600000,56
+1281,Green,USA,substitution-in,1404252600000,56
+1282,Green,USA,goal,1404252600000,56
+1302,Ramos,COL,substitution-in halftime,1404507660000,57
+1301,Ibarbo,COL,substitution-out halftime,1404507660000,57
+1304,James,COL,yellow-card,1404508920000,57
+1306,Yepes,COL,yellow-card,1404509040000,57
+1308,Bacca,COL,substitution-in,1404509100000,57
+1307,Teo,COL,substitution-out,1404509100000,57
+1312,Quintero,COL,substitution-in,1404509700000,57
+1311,Cuadrado,COL,substitution-out,1404509700000,57
+1310,James,COL,goal-penalty,1404509700000,57
+1285,Hummels,GER,goal,1404490380000,58
+1286,Khedira,GER,yellow-card,1404493740000,58
+1287,Klose,GER,substitution-out,1404494640000,58
+1288,SchÜrrle,GER,substitution-in,1404494640000,58
+1293,Schweinsteiger,GER,yellow-card,1404495300000,58
+1296,Özil,GER,substitution-out,1404495960000,58
+1297,GÖtze,GER,substitution-in,1404495960000,58
+1299,Kramer,GER,substitution-in,1404496500000,58
+1298,Kroos,GER,substitution-out,1404496500000,58
+1335,Diaz J.,CRC,yellow-card,1404592620000,59
+1336,UmaÑa M.,CRC,yellow-card,1404594420000,59
+1339,UreÑa M.,CRC,substitution-in,1404595260000,59
+1338,Campbell J.,CRC,substitution-out,1404595260000,59
+1342,Gamboa C.,CRC,substitution-out,1404596040000,59
+1343,Myrie D.,CRC,substitution-in,1404596040000,59
+1344,Gonzalez G.,CRC,yellow-card,1404596640000,59
+1345,Tejeda Y.,CRC,substitution-out,1404597600000,59
+1346,Cubero J.,CRC,substitution-in,1404597600000,59
+1349,Acosta J.,CRC,yellow-card,1404598200000,59
+1353,Acosta J.,CRC,yellow-card,1404598200000,59
+1322,E.Hazard,BEL,yellow-card,1404580080000,60
+1323,Origi,BEL,substitution-out,1404580440000,60
+1324,Lukaku,BEL,substitution-in,1404580440000,60
+1327,Mertens,BEL,substitution-in,1404580500000,60
+1326,Mirallas,BEL,substitution-out,1404580500000,60
+1325,Alderweireld,BEL,yellow-card,1404580980000,60
+1331,E.Hazard,BEL,substitution-out,1404581400000,60
+1332,Chadli,BEL,substitution-in,1404581400000,60
+1354,MÜller,GER,goal,1404850260000,61
+1355,Klose,GER,goal,1404850980000,61
+1356,Kroos,GER,goal,1404851040000,61
+1357,Kroos,GER,goal,1404851160000,61
+1358,Khedira,GER,goal,1404851340000,61
+1363,Hummels,GER,substitution-out halftime,1404853260000,61
+1364,Mertesacker,GER,substitution-in halftime,1404853260000,61
+1365,Klose,GER,substitution-out,1404853980000,61
+1366,SchÜrrle,GER,substitution-in,1404853980000,61
+1370,SchÜrrle,GER,goal,1404854640000,61
+1372,Draxler,GER,substitution-in,1404855060000,61
+1371,Khedira,GER,substitution-out,1404855060000,61
+1373,SchÜrrle,GER,goal,1404855240000,61
+1378,Demichelis,ARG,yellow-card,1404939840000,62
+1381,Perez,ARG,substitution-out,1404942240000,62
+1382,Palacio,ARG,substitution-in,1404942240000,62
+1384,Aguero,ARG,substitution-in,1404942300000,62
+1383,Higuain,ARG,substitution-out,1404942300000,62
+1387,Lavezzi,ARG,substitution-out,1404943440000,62
+1388,M. Rodriguez,ARG,substitution-in,1404943440000,62
+1391,V. Persie,NED,goal-penalty,1405195380000,63
+1392,Robben,NED,yellow-card,1405195740000,63
+1393,Blind,NED,goal,1405196220000,63
+1394,De Guzman,NED,yellow-card,1405197360000,63
+1401,Blind,NED,substitution-out,1405200300000,63
+1402,Janmaat,NED,substitution-in,1405200300000,63
+1405,Clasie,NED,substitution-out,1405201980000,63
+1406,Veltman,NED,substitution-in,1405201980000,63
+1407,Wijnaldum,NED,goal,1405202040000,63
+1408,Cillessen,NED,substitution-out,1405202160000,63
+1409,Vorm,NED,substitution-in,1405202160000,63
+1415,Aguero,ARG,substitution-in halftime,1405281660000,64
+1414,Lavezzi,ARG,substitution-out halftime,1405281660000,64
+1416,Mascherano,ARG,yellow-card,1405282740000,64
+1417,Aguero,ARG,yellow-card,1405282800000,64
+1419,Palacio,ARG,substitution-in,1405283580000,64
+1418,Higuain,ARG,substitution-out,1405283580000,64
+1420,Perez,ARG,substitution-out,1405284540000,64
+1421,Gago,ARG,substitution-in,1405284540000,64
+662,Marcelo,BRA,goal-own,1402603860000,1
+665,Neymar Jr,BRA,yellow-card,1402604820000,1
+666,Neymar Jr,BRA,goal,1402604940000,1
+664,Paulinho,BRA,substitution-out,1402607880000,1
+672,Hernanes,BRA,substitution-in,1402607880000,1
+663,Hulk,BRA,substitution-out,1402608180000,1
+673,Bernard,BRA,substitution-in,1402608180000,1
+667,Neymar Jr,BRA,goal-penalty,1402608360000,1
+670,L Gustavo,BRA,yellow-card,1402609860000,1
+668,Neymar Jr,BRA,substitution-out,1402609860000,1
+671,Ramires,BRA,substitution-in,1402609860000,1
+669,Oscar,BRA,goal,1402610040000,1
+679,H Moreno,MEX,yellow-card,1402679520000,2
+681,O Peralta,MEX,goal,1402679760000,2
+684,M Fabian,MEX,substitution-in,1402680240000,2
+680,A Guardado,MEX,substitution-out,1402680240000,2
+685,J Hernandez,MEX,substitution-in,1402680540000,2
+682,O Peralta,MEX,substitution-out,1402680540000,2
+683,C Salcido,MEX,substitution-in,1402682040000,2
+678,H Herrera,MEX,substitution-out,1402682040000,2
+690,Alonso,ESP,goal-penalty,1402687620000,3
+691,Alonso,ESP,substitution-out,1402690620000,3
+696,Pedro,ESP,substitution-in,1402690620000,3
+692,Diego Costa,ESP,substitution-out,1402690620000,3
+694,Torres,ESP,substitution-in,1402690620000,3
+689,I. Casillas,ESP,yellow-card,1402690800000,3
+695,Fábregas,ESP,substitution-in,1402691580000,3
+693,Silva,ESP,substitution-out,1402691580000,3
+708,Alexis,CHI,goal,1402697520000,4
+710,Valdivia,CHI,goal,1402697640000,4
+709,Vidal,CHI,substitution-out,1402701300000,4
+717,Gutiérrez,CHI,substitution-in,1402701300000,4
+715,Beausejour,CHI,substitution-in,1402701780000,4
+711,Valdivia,CHI,substitution-out,1402701780000,4
+713,Ch. Aránguiz,CHI,yellow-card,1402703340000,4
+714,Pinilla,CHI,substitution-in,1402703460000,4
+712,Vargas,CHI,substitution-out,1402703460000,4
+716,Beausejour,CHI,goal,1402703700000,4
+726,P. Armero,COL,goal,1402761900000,5
+725,C. Sanchez,COL,yellow-card,1402763160000,5
+729,Teo,COL,goal,1402765980000,5
+733,A. Mejia,COL,substitution-in,1402766640000,5
+728,Aguilar T.,COL,substitution-out,1402766640000,5
+727,P. Armero,COL,substitution-out,1402766940000,5
+732,Arias,COL,substitution-in,1402766940000,5
+730,Teo,COL,substitution-out,1402767060000,5
+734,Jackson M.,COL,substitution-in,1402767060000,5
+731,James,COL,goal,1402768560000,5
+763,Bamba,CIV,yellow-card,1402798140000,6
+758,Zokora,CIV,yellow-card,1402798380000,6
+764,Drogba,CIV,substitution-in,1402798620000,6
+762,Serey Die,CIV,substitution-out,1402798620000,6
+760,B. Wilfried,CIV,goal,1402798740000,6
+759,Gervinho,CIV,goal,1402798860000,6
+757,Boka,CIV,substitution-out,1402799400000,6
+766,Djakpa,CIV,substitution-in,1402799400000,6
+765,Ya Konan,CIV,substitution-in,1402799580000,6
+761,B. Wilfried,CIV,substitution-out,1402799580000,6
+746,E. Cavani,URU,goal-penalty,1402773840000,7
+740,D. Lugano,URU,yellow-card,1402776300000,7
+741,W. Gargano,URU,yellow-card,1402776660000,7
+749,N. Lodeiro,URU,substitution-in,1402776900000,7
+742,W. Gargano,URU,substitution-out,1402776900000,7
+750,A. Gonzalez,URU,substitution-in,1402776900000,7
+744,D. Forlan,URU,substitution-out,1402776900000,7
+743,C. Rodriguez,URU,substitution-out,1402777860000,7
+748,A. Hernandez,URU,substitution-in,1402777860000,7
+747,M. Caceres,URU,yellow-card,1402778640000,7
+745,M. Pereira,URU,red-card,1402779420000,7
+649,Sturridge,ENG,goal,1402785420000,8
+651,Welbeck,ENG,substitution-out,1402787760000,8
+656,Barkley,ENG,substitution-in,1402787760000,8
+652,Henderson,ENG,substitution-out,1402788480000,8
+654,Wilshere,ENG,substitution-in,1402788480000,8
+650,Sturridge,ENG,substitution-out,1402788900000,8
+655,Lallana,ENG,substitution-in,1402788900000,8
+653,Sterling,ENG,yellow-card,1402790100000,8
+773,Stocker,SUI,substitution-out halftime,1402851660000,9
+778,Mehmedi,SUI,substitution-in halftime,1402851660000,9
+779,Mehmedi,SUI,goal,1402851780000,9
+776,Seferovic,SUI,substitution-in,1402853400000,9
+774,Drmic,SUI,substitution-out,1402853400000,9
+775,Djourou,SUI,yellow-card,1402854420000,9
+777,Seferovic,SUI,goal,1402854960000,9
+784,Evra,FRA,yellow-card,1402859220000,10
+790,Pogba,FRA,yellow-card,1402860480000,10
+788,Benzema,FRA,goal-penalty,1402861500000,10
+791,Pogba,FRA,substitution-out,1402863120000,10
+794,Sissoko,FRA,substitution-in,1402863120000,10
+793,Mavuba,FRA,substitution-in,1402863600000,10
+786,Cabaye,FRA,substitution-out,1402863600000,10
+789,Benzema,FRA,goal,1402864020000,10
+792,Giroud,FRA,substitution-in,1402864380000,10
+787,Valbuena,FRA,substitution-out,1402864380000,10
+785,Cabaye,FRA,yellow-card,1402887300000,10
+806,Rojo,ARG,yellow-card,1402871100000,11
+803,Campagnaro,ARG,substitution-out halftime,1402873260000,11
+808,Gago,ARG,substitution-in halftime,1402873260000,11
+810,Higuain,ARG,substitution-in halftime,1402873260000,11
+805,M. Rodriguez,ARG,substitution-out halftime,1402873260000,11
+804,Messi,ARG,goal,1402874400000,11
+809,Biglia,ARG,substitution-in,1402876200000,11
+807,Aguero,ARG,substitution-out,1402876200000,11
+836,Alireza,IRN,substitution-in,1402950480000,12
+834,Dejagah,IRN,substitution-out,1402950480000,12
+833,Andranik,IRN,yellow-card,1402950600000,12
+835,Masoud. Sh,IRN,substitution-in,1402951920000,12
+832,Kh. Heydari,IRN,substitution-out,1402951920000,12
+820,Müller,GER,goal-penalty,1402935120000,13
+817,Hummels,GER,goal,1402936320000,13
+819,özil,GER,substitution-out,1402939080000,13
+824,Schürrle,GER,substitution-in,1402939080000,13
+818,Hummels,GER,substitution-out,1402939680000,13
+826,Mustafi,GER,substitution-in,1402939680000,13
+822,Müller,GER,goal,1402939980000,13
+825,Podolski,GER,substitution-in,1402940700000,13
+823,Müller,GER,substitution-out,1402940700000,13
+821,Müller,GER,goal,1402962840000,13
+844,Rabiu,GHA,yellow-card,1402957800000,14
+847,Prince,GHA,substitution-in,1402960440000,14
+843,J. Ayew,GHA,substitution-out,1402960440000,14
+846,Essien,GHA,substitution-in,1402961160000,14
+845,Rabiu,GHA,substitution-out,1402961160000,14
+840,Atsu,GHA,substitution-out,1402961580000,14
+848,Adomah,GHA,substitution-in,1402961580000,14
+841,A. Ayew,GHA,goal,1402962300000,14
+842,Muntari,GHA,yellow-card,1402962900000,14
+854,Vertonghen,BEL,yellow-card,1403022240000,15
+857,Mertens,BEL,substitution-in halftime,1403024460000,15
+411,Chadli,BEL,substitution-out halftime,1403024460000,15
+409,Lukaku,BEL,substitution-out,1403025180000,15
+859,Origi,BEL,substitution-in,1403025180000,15
+855,Fellaini,BEL,substitution-in,1403025600000,15
+410,Dembele,BEL,substitution-out,1403025600000,15
+856,Fellaini,BEL,goal,1403025900000,15
+858,Mertens,BEL,goal,1403026500000,15
+422,Shatov,RUS,yellow-card,1403046240000,16
+426,Dzagoev,RUS,substitution-in,1403046840000,16
+423,Shatov,RUS,substitution-out,1403046840000,16
+427,Kerzhakov,RUS,substitution-in,1403047560000,16
+424,Zhirkov,RUS,substitution-out,1403047560000,16
+421,Glushakov,RUS,substitution-out,1403047620000,16
+425,Denisov,RUS,substitution-in,1403047620000,16
+428,Kerzhakov,RUS,goal,1403047740000,16
+415,Ramires,BRA,yellow-card,1403034300000,17
+866,Bernard,BRA,substitution-in halftime,1403035260000,17
+416,Ramires,BRA,substitution-out halftime,1403035260000,17
+413,Fred,BRA,substitution-out,1403036580000,17
+867,Jô,BRA,substitution-in,1403036580000,17
+412,T Silva,BRA,yellow-card,1403037240000,17
+414,Oscar,BRA,substitution-out,1403038020000,17
+865,Willian,BRA,substitution-in,1403038020000,17
+466,Song,CMR,red-card,1403131200000,18
+469,Chedjou,CMR,substitution-out halftime,1403132460000,18
+470,Nounkeu,CMR,substitution-in halftime,1403132460000,18
+471,Webo,CMR,substitution-in,1403133900000,18
+467,Aboubakar,CMR,substitution-out,1403133900000,18
+468,Choupo Moting,CMR,substitution-out,1403134200000,18
+472,Salli,CMR,substitution-in,1403134200000,18
+453,Alonso,ESP,yellow-card,1403120460000,19
+454,Alonso,ESP,substitution-out halftime,1403121660000,19
+457,Koke,ESP,substitution-in halftime,1403121660000,19
+455,Diego Costa,ESP,substitution-out,1403122740000,19
+456,Torres,ESP,substitution-in,1403122740000,19
+452,Pedro,ESP,substitution-out,1403123460000,19
+458,S. Cazorla,ESP,substitution-in,1403123460000,19
+436,Cahill,AUS,goal,1403108460000,20
+437,Cahill,AUS,yellow-card,1403109780000,20
+441,Bresciano,AUS,substitution-out,1403111160000,20
+444,Bozanic,AUS,substitution-in,1403111160000,20
+440,Jedinak,AUS,goal-penalty,1403111340000,20
+438,Cahill,AUS,substitution-out,1403112240000,20
+443,Halloran,AUS,substitution-in,1403112240000,20
+442,Taggart,AUS,substitution-in,1403112720000,20
+439,Oar,AUS,substitution-out,1403112720000,20
+484,Ibarbo,COL,substitution-out,1403197680000,21
+487,Quintero,COL,substitution-in,1403197680000,21
+483,James,COL,goal,1403198340000,21
+488,Quintero,COL,goal,1403198700000,21
+485,Arias,COL,substitution-in,1403198820000,21
+481,P. Armero,COL,substitution-out,1403198820000,21
+482,Aguilar T.,COL,substitution-out,1403199240000,21
+486,A. Mejia,COL,substitution-in,1403199240000,21
+509,Hasebe,JPN,yellow-card,1403215920000,22
+510,Hasebe,JPN,substitution-out halftime,1403218860000,22
+512,Endo,JPN,substitution-in halftime,1403218860000,22
+511,Osako,JPN,substitution-out,1403219520000,22
+513,Kagawa,JPN,substitution-in,1403219520000,22
+495,D. Godin,URU,yellow-card,1403204940000,23
+496,L. Suarez,URU,goal,1403206740000,23
+502,C. Stuani,URU,substitution-in,1403209320000,23
+499,N. Lodeiro,URU,substitution-out,1403209320000,23
+501,J. Fucile,URU,substitution-in,1403210040000,23
+500,A. Gonzalez,URU,substitution-out,1403210040000,23
+497,L. Suarez,URU,goal,1403210880000,23
+498,L. Suarez,URU,substitution-out,1403211060000,23
+503,S. Coates,URU,substitution-in,1403211060000,23
+521,Thiago Motta,ITA,substitution-out halftime,1403283660000,24
+525,Cassano,ITA,substitution-in halftime,1403283660000,24
+522,Candreva,ITA,substitution-out,1403284320000,24
+527,Insigne,ITA,substitution-in,1403284320000,24
+523,Marchisio,ITA,substitution-out,1403285040000,24
+526,Cerci,ITA,substitution-in,1403285040000,24
+524,Balotelli,ITA,yellow-card,1403285040000,24
+533,Von Bergen,SUI,substitution-out,1403291340000,25
+537,Senderos,SUI,substitution-in,1403291340000,25
+538,Dzemaili,SUI,substitution-in halftime,1403294460000,25
+536,Behrami,SUI,substitution-out halftime,1403294460000,25
+534,Seferovic,SUI,substitution-out,1403295840000,25
+540,Drmic,SUI,substitution-in,1403295840000,25
+539,Dzemaili,SUI,goal,1403297040000,25
+535,Xhaka,SUI,goal,1403297400000,25
+551,Bernardez,HON,yellow-card,1403302020000,26
+554,Costly,HON,goal,1403303460000,26
+557,J.C. Garcia,HON,substitution-in halftime,1403305260000,26
+552,Emilio,HON,substitution-out halftime,1403305260000,26
+558,M. Martinez,HON,substitution-in,1403306760000,26
+556,Garrido,HON,substitution-out,1403306760000,26
+555,Boniek,HON,substitution-out,1403307960000,26
+559,M. Chavez,HON,substitution-in,1403307960000,26
+553,Bengtson,HON,yellow-card,1403330160000,26
+574,Lavezzi,ARG,substitution-in,1403371860000,27
+569,Higuain,ARG,substitution-out,1403371860000,27
+573,Palacio,ARG,substitution-in,1403371860000,27
+571,Aguero,ARG,substitution-out,1403371860000,27
+570,Messi,ARG,goal,1403373240000,27
+572,Biglia,ARG,substitution-in,1403373420000,27
+568,Di Maria,ARG,substitution-out,1403373420000,27
+595,Odemwingie,NGA,goal,1403389740000,28
+594,Musa,NGA,substitution-out,1403392800000,28
+599,Ameobi,NGA,substitution-in,1403392800000,28
+597,Babatunde,NGA,substitution-out,1403393400000,28
+598,Uzoenyi,NGA,substitution-in,1403393400000,28
+596,Mikel,NGA,yellow-card,1403394240000,28
+587,Mustafi,GER,substitution-in halftime,1403380860000,29
+583,Boateng,GER,substitution-out halftime,1403380860000,29
+581,Götze,GER,goal,1403381160000,29
+585,Klose,GER,substitution-in,1403382240000,29
+582,Götze,GER,substitution-out,1403382240000,29
+580,Khedira,GER,substitution-out,1403382300000,29
+584,Schweinsteiger,GER,substitution-in,1403382300000,29
+586,Klose,GER,goal,1403382360000,29
+638,Jones,USA,goal,1403479140000,30
+641,Yedlin,USA,substitution-in,1403479620000,30
+637,Bedoya,USA,substitution-out,1403479620000,30
+639,Jones,USA,yellow-card,1403479800000,30
+635,Dempsey,USA,goal,1403480640000,30
+636,Dempsey,USA,substitution-out,1403481000000,30
+643,Wondolowski,USA,substitution-in,1403481000000,30
+640,Zusi,USA,substitution-out,1403481240000,30
+642,Gonzalez,USA,substitution-in,1403481240000,30
+609,Vertonghen,BEL,substitution-in,1403454660000,31
+605,Vermaelen,BEL,substitution-out,1403454660000,31
+606,Witsel,BEL,yellow-card,1403456940000,31
+607,Lukaku,BEL,substitution-out,1403457120000,31
+611,Origi,BEL,substitution-in,1403457120000,31
+604,Alderweireld,BEL,yellow-card,1403458080000,31
+610,Mirallas,BEL,substitution-in,1403458200000,31
+608,Mertens,BEL,substitution-out,1403458200000,31
+612,Origi,BEL,goal,1403459460000,31
+617,H M Son,KOR,goal,1403467500000,32
+619,Y Lee,KOR,yellow-card,1403467740000,32
+618,C Y Park,KOR,substitution-out,1403467920000,32
+625,S W Kim,KOR,substitution-in,1403467920000,32
+623,C Y Lee,KOR,substitution-out,1403468340000,32
+624,K H Lee,KOR,substitution-in,1403468340000,32
+621,K Y Han,KOR,yellow-card,1403468640000,32
+620,J C Koo,KOR,goal,1403468820000,32
+622,K Y Han,KOR,substitution-out,1403469180000,32
+626,D W Ji,KOR,substitution-in,1403469180000,32
+898,Enoh,CMR,yellow-card,1403554260000,33
+900,Matip,CMR,goal,1403555160000,33
+908,Salli,CMR,substitution-in,1403557980000,33
+907,Moukandjo,CMR,substitution-out,1403557980000,33
+915,Aboubakar,CMR,substitution-out,1403558820000,33
+916,Webo,CMR,substitution-in,1403558820000,33
+921,Salli,CMR,yellow-card,1403559000000,33
+923,Mbia,CMR,yellow-card,1403559300000,33
+925,Choupo Moting,CMR,substitution-out,1403559840000,33
+926,Makoun,CMR,substitution-in,1403559840000,33
+897,Rakitić,CRO,yellow-card,1403554140000,34
+906,Kovačić,CRO,substitution-in,1403557980000,34
+905,Vrsaljko,CRO,substitution-out,1403557980000,34
+912,Olić,CRO,substitution-out,1403558640000,34
+913,Rebić,CRO,substitution-in,1403558640000,34
+919,Jelavić,CRO,substitution-in,1403558940000,34
+918,Pranjić,CRO,substitution-out,1403558940000,34
+929,Perišić,CRO,goal,1403560200000,34
+930,Rebić,CRO,red-card,1403560320000,34
+872,Halloran,AUS,substitution-in halftime,1403542860000,35
+871,Taggart,AUS,substitution-out halftime,1403542860000,35
+876,Troisi,AUS,substitution-in,1403543760000,35
+875,Oar,AUS,substitution-out,1403543760000,35
+885,Bresciano,AUS,substitution-in,1403544420000,35
+884,Bozanic,AUS,substitution-out,1403544420000,35
+892,Spiranovic,AUS,yellow-card,1403545860000,35
+896,Jedinak,AUS,yellow-card,1403546100000,35
+878,Blind,NED,yellow-card,1403543940000,36
+881,Lens,NED,substitution-out,1403544240000,36
+882,Memphis,NED,substitution-in,1403544240000,36
+886,Sneijder,NED,substitution-out,1403544600000,36
+887,Fer,NED,substitution-in,1403544600000,36
+888,Fer,NED,goal,1403544720000,36
+893,Kuyt,NED,substitution-out,1403545920000,36
+894,Kongolo,NED,substitution-in,1403545920000,36
+895,Memphis,NED,goal,1403546100000,36
+961,Konno,JPN,yellow-card,1403640960000,37
+973,Aoyama,JPN,substitution-out,1403644620000,37
+974,Yamaguchi,JPN,substitution-in,1403644620000,37
+976,Okazaki,JPN,substitution-out,1403645040000,37
+977,Kakitani,JPN,substitution-in,1403645040000,37
+986,Kiyotake,JPN,substitution-in,1403646480000,37
+985,Kagawa,JPN,substitution-out,1403646480000,37
+967,Okazaki,JPN,goal,1403668440000,37
+960,Samaris,GRE,substitution-in,1403640720000,38
+959,Kone,GRE,substitution-out,1403640720000,38
+963,Karnezis,GRE,substitution-out,1403641440000,38
+964,Glykos,GRE,substitution-in,1403641440000,38
+966,Samaris,GRE,goal,1403642520000,38
+980,Karagounis,GRE,substitution-out,1403645580000,38
+981,Gekas,GRE,substitution-in,1403645580000,38
+989,Samaras,GRE,goal-penalty,1403646960000,38
+931,Balotelli,ITA,yellow-card,1403626920000,39
+934,Parolo,ITA,substitution-in halftime,1403629260000,39
+933,Balotelli,ITA,substitution-out halftime,1403629260000,39
+932,Marchisio,ITA,red-card,1403630040000,39
+946,Immobile,ITA,substitution-out,1403630760000,39
+947,Cassano,ITA,substitution-in,1403630760000,39
+949,Verratti,ITA,substitution-out,1403631000000,39
+950,Thiago Motta,ITA,substitution-in,1403631000000,39
+954,De Sciglio,ITA,yellow-card,1403631120000,39
+957,Barzagli,ITA,yellow-card,1403632500000,39
+939,Bolaños C.,CRC,substitution-in,1403630040000,40
+938,Brenes R.,CRC,substitution-out,1403630040000,40
+937,Gonzalez G.,CRC,yellow-card,1403630100000,40
+945,Ureña M.,CRC,substitution-in,1403630400000,40
+944,Campbell J.,CRC,substitution-out,1403630400000,40
+951,Borges C.,CRC,substitution-out,1403631180000,40
+952,Barrantes M.,CRC,substitution-in,1403631180000,40
+1039,Costly,HON,substitution-out,1403728800000,41
+1040,J. Palacios,HON,substitution-in,1403728800000,41
+1041,Espinoza,HON,substitution-out halftime,1403730060000,41
+1042,M. Chavez,HON,substitution-in halftime,1403730060000,41
+1048,J. Palacios,HON,yellow-card,1403731260000,41
+1054,Boniek,HON,substitution-out,1403731920000,41
+1055,Najar,HON,substitution-in,1403731920000,41
+1043,A. Valencia,ECU,red-card,1403730300000,42
+1047,Ibarra,ECU,substitution-in,1403731080000,42
+1046,Montero,ECU,substitution-out,1403731080000,42
+1061,Arroyo,ECU,substitution-out,1403732700000,42
+1062,Achilier,ECU,substitution-in,1403732700000,42
+1060,Erazo,ECU,yellow-card,1403732760000,42
+1064,Caicedo,ECU,substitution-in,1403733120000,42
+1063,Noboa,ECU,substitution-out,1403733120000,42
+1003,Musa,NGA,goal,1403712240000,43
+1010,Musa,NGA,goal,1403715720000,43
+1011,Omeruo,NGA,yellow-card,1403715840000,43
+1013,Oshaniwa,NGA,yellow-card,1403715960000,43
+1022,Uchebo,NGA,substitution-in,1403716860000,43
+1021,Babatunde,NGA,substitution-out,1403716860000,43
+1028,Odemwingie,NGA,substitution-out,1403717700000,43
+1029,Nwofor,NGA,substitution-in,1403717700000,43
+1004,Džeko,BIH,goal,1403713380000,44
+1014,Pjanić,BIH,goal,1403716440000,44
+1015,Hadžić,BIH,substitution-out,1403716560000,44
+1016,Vranješ,BIH,substitution-in,1403716560000,44
+1025,Bešić,BIH,yellow-card,1403717520000,44
+1027,Salihović,BIH,substitution-in,1403717640000,44
+1026,Sušić,BIH,substitution-out,1403717640000,44
+1031,Vršajević,BIH,goal,1403718360000,44
+1032,Džeko,BIH,substitution-out,1403718420000,44
+1033,Višća,BIH,substitution-in,1403718420000,44
+1069,Gonzalez,USA,yellow-card,1403800620000,45
+1076,Davis,USA,substitution-out,1403802840000,45
+1077,Bedoya,USA,substitution-in,1403802840000,45
+1080,Beckerman,USA,yellow-card,1403803020000,45
+1093,Zusi,USA,substitution-out,1403804820000,45
+1094,Yedlin,USA,substitution-in,1403804820000,45
+1078,J. Pereira,POR,substitution-out,1403802960000,46
+1079,Varela,POR,substitution-in,1403802960000,46
+1081,éder,POR,substitution-out,1403803440000,46
+1082,Vieirinha,POR,substitution-in,1403803440000,46
+1090,Ronaldo,POR,goal,1403804100000,46
+1097,Beto,POR,substitution-out,1403805120000,46
+1098,Eduardo,POR,substitution-in,1403805120000,46
+1099,J. Moutinho,POR,yellow-card,1403805420000,46
+1101,J H Hong,KOR,yellow-card,1403814900000,47
+1106,K Y Han,KOR,substitution-out halftime,1403816460000,47
+1107,K H Lee,KOR,substitution-in halftime,1403816460000,47
+1117,B K Kim,KOR,substitution-in,1403817660000,47
+1116,S W Kim,KOR,substitution-out,1403817660000,47
+1122,H M Son,KOR,substitution-out,1403818080000,47
+1123,D W Ji,KOR,substitution-in,1403818080000,47
+1102,Mesbah,ALG,yellow-card,1403815140000,48
+1115,Slimani,ALG,goal,1403817300000,48
+1121,Yebda,ALG,substitution-in,1403817960000,48
+1120,Brahimi,ALG,substitution-out,1403817960000,48
+1124,Djabou,ALG,substitution-out,1403818320000,48
+1125,Ghilas,ALG,substitution-in,1403818320000,48
+1129,Ghilas,ALG,yellow-card,1403819400000,48
+1132,Slimani,ALG,substitution-out,1403819580000,48
+1133,Soudani,ALG,substitution-in,1403819580000,48
+1134,Cadamuro,ALG,yellow-card,1403819700000,48
+1136,David Luiz,BRA,goal,1403972280000,49
+1139,Hulk,BRA,yellow-card,1403975400000,49
+1142,L Gustavo,BRA,yellow-card,1403975700000,49
+1144,Jô,BRA,substitution-in,1403975940000,49
+1143,Fred,BRA,substitution-out,1403975940000,49
+1146,Ramires,BRA,substitution-in,1403976420000,49
+1145,Fernandinho,BRA,substitution-out,1403976420000,49
+1149,Jô,BRA,yellow-card,1403978160000,49
+1152,Oscar,BRA,substitution-out,1403978940000,49
+1153,Willian,BRA,substitution-in,1403978940000,49
+1151,Dani Alves,BRA,yellow-card,1404035640000,49
+1156,James,COL,goal,1403987280000,50
+1157,James,COL,goal,1403989500000,50
+1163,Teo,COL,substitution-out,1403990580000,50
+1164,A. Mejia,COL,substitution-in,1403990580000,50
+1167,P. Armero,COL,yellow-card,1403991180000,50
+1169,Cuadrado,COL,substitution-out,1403991840000,50
+1170,Guarin,COL,substitution-in,1403991840000,50
+1171,James,COL,substitution-out,1403992080000,50
+1172,Ramos,COL,substitution-in,1403992080000,50
+1174,Martins Indi,NED,substitution-in,1404058140000,51
+1173,De Jong,NED,substitution-out,1404058140000,51
+1179,Memphis,NED,substitution-in,1404061860000,51
+1178,Verhaegh,NED,substitution-out,1404061860000,51
+1184,Huntelaar,NED,substitution-in,1404063060000,51
+1183,V. Persie,NED,substitution-out,1404063060000,51
+1187,Sneijder,NED,goal,1404064260000,51
+1189,Huntelaar,NED,goal-penalty,1404064620000,51
+1192,Duarte O.,CRC,yellow-card,1404074520000,52
+1193,Tejeda Y.,CRC,yellow-card,1404075780000,52
+1194,Ruiz B.,CRC,goal,1404076020000,52
+1195,Granados O.,CRC,yellow-card,1404076320000,52
+1199,Tejeda Y.,CRC,substitution-out,1404076860000,52
+1198,Duarte O.,CRC,yellow-card-second,1404076860000,52
+1200,Cubero J.,CRC,substitution-in,1404076860000,52
+1203,Ruiz B.,CRC,yellow-card,1404077100000,52
+1205,Gamboa C.,CRC,substitution-out,1404077520000,52
+1206,Acosta J.,CRC,substitution-in,1404077520000,52
+1210,Brenes R.,CRC,substitution-in,1404078360000,52
+1209,Bolaños C.,CRC,substitution-out,1404078360000,52
+1211,Navas K.,CRC,yellow-card,1404078780000,52
+1213,Matuidi,FRA,yellow-card,1404148140000,53
+1216,Giroud,FRA,substitution-out,1404148620000,53
+1217,Griezmann,FRA,substitution-in,1404148620000,53
+1218,Pogba,FRA,goal,1404149640000,53
+1222,Valbuena,FRA,substitution-out,1404151020000,53
+1223,Sissoko,FRA,substitution-in,1404151020000,53
+1226,Schürrle,GER,substitution-in halftime,1404162060000,54
+1225,Götze,GER,substitution-out halftime,1404162060000,54
+1228,Khedira,GER,substitution-in,1404163500000,54
+1227,Mustafi,GER,substitution-out,1404163500000,54
+1232,Khedira,GER,substitution-in,1404163500000,54
+1231,Mustafi,GER,substitution-out,1404163500000,54
+1235,Schürrle,GER,goal,1404165300000,54
+1247,Lahm,GER,yellow-card,1404166200000,54
+1242,Lahm,GER,yellow-card,1404166200000,54
+1240,Schweinsteiger,GER,substitution-out,1404166320000,54
+1243,Kramer,GER,substitution-in,1404166320000,54
+1245,Schweinsteiger,GER,substitution-out,1404166320000,54
+1248,Kramer,GER,substitution-in,1404166320000,54
+1246,özil,GER,goal,1404166980000,54
+1241,özil,GER,goal,1404231900000,54
+1253,Lavezzi,ARG,substitution-out,1404235740000,55
+1254,Palacio,ARG,substitution-in,1404235740000,55
+1258,Rojo,ARG,yellow-card,1404237180000,55
+1262,Biglia,ARG,substitution-in,1404238140000,55
+1261,Gago,ARG,substitution-out,1404238140000,55
+1265,Di Maria,ARG,goal,1404238860000,55
+1266,Di Maria,ARG,yellow-card,1404238980000,55
+1260,Basanta,ARG,substitution-in,1404294840000,55
+1259,Rojo,ARG,substitution-out,1404294840000,55
+1267,Garay,ARG,yellow-card,1404304020000,55
+1271,Kompany,BEL,yellow-card,1404247320000,56
+1272,Mertens,BEL,substitution-out,1404249300000,56
+1273,Mirallas,BEL,substitution-in,1404249300000,56
+1277,Lukaku,BEL,substitution-in,1404251640000,56
+1276,Origi,BEL,substitution-out,1404251640000,56
+1278,De Bruyne,BEL,goal,1404251760000,56
+1279,Lukaku,BEL,goal,1404252480000,56
+1283,E.Hazard,BEL,substitution-out,1404252840000,56
+1284,Chadli,BEL,substitution-in,1404252840000,56
+1300,T Silva,BRA,goal,1404504420000,57
+1303,T Silva,BRA,yellow-card,1404508740000,57
+1305,David Luiz,BRA,goal,1404509040000,57
+1309,Julio Cesar,BRA,yellow-card,1404509580000,57
+1313,Hulk,BRA,substitution-out,1404510360000,57
+1314,Ramires,BRA,substitution-in,1404510360000,57
+1315,Paulinho,BRA,substitution-out,1404510540000,57
+1316,Hernanes,BRA,substitution-in,1404510540000,57
+1317,Neymar Jr,BRA,substitution-out,1404510660000,57
+1318,Henrique,BRA,substitution-in,1404510660000,57
+1289,Sakho,FRA,substitution-out,1404494820000,58
+1290,Koscielny,FRA,substitution-in,1404494820000,58
+1291,Cabaye,FRA,substitution-out,1404494880000,58
+1292,Remy,FRA,substitution-in,1404494880000,58
+1294,Valbuena,FRA,substitution-out,1404496080000,58
+1295,Giroud,FRA,substitution-in,1404496080000,58
+1337,Martins Indi,NED,yellow-card,1404595140000,59
+1340,Memphis,NED,substitution-out,1404595860000,59
+1341,Lens,NED,substitution-in,1404595860000,59
+1347,Martins Indi,NED,substitution-out,1404598140000,59
+1348,Huntelaar,NED,substitution-in,1404598140000,59
+1350,Huntelaar,NED,yellow-card,1404598440000,59
+1352,Krul,NED,substitution-in,1404663840000,59
+1351,Cillessen,NED,substitution-out,1404663840000,59
+1319,Higuain,ARG,goal,1404576480000,60
+1320,Di Maria,ARG,substitution-out,1404577980000,60
+1321,Perez,ARG,substitution-in,1404577980000,60
+1328,Lavezzi,ARG,substitution-out,1404581160000,60
+1329,Palacio,ARG,substitution-in,1404581160000,60
+1330,Biglia,ARG,yellow-card,1404581400000,60
+1333,Higuain,ARG,substitution-out,1404582240000,60
+1334,Gago,ARG,substitution-in,1404582240000,60
+1359,Fernandinho,BRA,substitution-out halftime,1404853260000,61
+1360,Hulk,BRA,substitution-out halftime,1404853260000,61
+1361,Paulinho,BRA,substitution-in halftime,1404853260000,61
+1362,Ramires,BRA,substitution-in halftime,1404853260000,61
+1367,Dante,BRA,yellow-card,1404854580000,61
+1368,Fred,BRA,substitution-out,1404854640000,61
+1369,Willian,BRA,substitution-in,1404854640000,61
+1374,Oscar,BRA,goal,1404856380000,61
+1375,Martins Indi,NED,yellow-card,1404938700000,62
+1376,Martins Indi,NED,substitution-out halftime,1404939660000,62
+1377,Janmaat,NED,substitution-in halftime,1404939660000,62
+1380,Clasie,NED,substitution-in,1404940620000,62
+1379,De Jong,NED,substitution-out,1404940620000,62
+1385,V. Persie,NED,substitution-out,1404943140000,62
+1386,Huntelaar,NED,substitution-in,1404943140000,62
+1389,Huntelaar,NED,yellow-card,1404943680000,62
+1390,T Silva,BRA,yellow-card,1405195320000,63
+1395,L Gustavo,BRA,substitution-out halftime,1405198860000,63
+1396,Fernandinho,BRA,substitution-in halftime,1405198860000,63
+1397,Fernandinho,BRA,yellow-card,1405199340000,63
+1399,Hernanes,BRA,substitution-in,1405199520000,63
+1398,Paulinho,BRA,substitution-out,1405199520000,63
+1400,Oscar,BRA,yellow-card,1405200180000,63
+1403,Ramires,BRA,substitution-out,1405200480000,63
+1404,Hulk,BRA,substitution-in,1405200480000,63
+1410,Schweinsteiger,GER,yellow-card,1405279740000,64
+1411,Kramer,GER,substitution-out,1405279860000,64
+1412,Schürrle,GER,substitution-in,1405279860000,64
+1413,Höwedes,GER,yellow-card,1405280040000,64
+1423,Götze,GER,substitution-in,1405284660000,64
+1422,Klose,GER,substitution-out,1405284660000,64
+1424,Götze,GER,goal,1405286160000,64
+1425,özil,GER,substitution-out,1405286580000,64
+1426,Mertesacker,GER,substitution-in,1405286580000,64
