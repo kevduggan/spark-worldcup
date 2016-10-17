@@ -23,7 +23,10 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-sql" % "1.4.1",
   "com.databricks" % "spark-csv_2.10" % "1.5.0",
   "org.scalatest" %% "scalatest" % "2.2.1" % "test",
-  "org.scalacheck" %% "scalacheck" % "1.12.5" % "test"
+  "org.scalacheck" %% "scalacheck" % "1.12.5" % "test",
+  "com.github.melrief" %% "purecsv" % "0.0.6",
+  compilerPlugin("org.scalamacros" % "paradise" % "2.0.1" cross CrossVersion.full)
+
 )
 
 //sbt-assembly

@@ -1,0 +1,33 @@
+group,country,code,rank
+"B","Chile","CHI",14
+"C","Colombia","COL",8
+"F","Nigeria","NGA",44
+"A","Cameroon","CMR",56
+"D","England","ENG",10
+"E","Ecuador","ECU",26
+"G","Ghana","GHA",37
+"H","Algeria","ALG",22
+"E","Honduras","HON",33
+"D","Italy","ITA",9
+"A","Croatia","CRO",18
+"C","Ivory Coast","CIV",23
+"E","France","FRA",17
+"G","Germany","GER",2
+"E","Switzerland","SUI",6
+"H","Russia","RUS",19
+"A","Mexico","MEX",20
+"F","Argentina","ARG",5
+"G","Portugal","POR",4
+"B","Spain","ESP",1
+"F","Bosnia-Herzegovina","BIH",21
+"A","Brazil","BRA",3
+"D","Uruguay","URU",7
+"B","Australia","AUS",62
+"H","Belgium","BEL",11
+"F","Iran","IRN",43
+"H","South Korea","KOR",57
+"C","Japan","JPN",46
+"D","Costa Rica","CRC",28
+"B","Netherlands","NED",15
+"C","Greece","GRE",12
+"G","USA","USA",13
