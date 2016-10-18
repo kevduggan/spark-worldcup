@@ -1,6 +1,6 @@
 # Spark World Cup Stats
 
-![alt tag](http://img.fifa.com/mm/photo/tournament/loc/01/70/12/79/1701279_large.jpg)
+![logo](http://img.fifa.com/mm/photo/tournament/loc/01/70/12/79/1701279_large.jpg)
 
 ## A introduction to developing with the Spark API.
  
