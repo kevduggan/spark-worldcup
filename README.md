@@ -2,7 +2,7 @@
 
 ![logo](http://img.fifa.com/mm/photo/tournament/loc/01/70/12/79/1701279_large.jpg)
 
-## A introduction to developing with the Spark API.
+## An Introduction to Developing with the Spark API.
  
 We are going to use the supplied data sets to calculate some of the [stats](https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_statistics) from the 2014 FIFA World Cup in Brazil.
 
