@@ -1,10 +1,11 @@
 package com.kduggan.spark.worldcup
 
+import com.kduggan.spark.worldcup.data.DataLoader
 import com.kduggan.spark.worldcup.model.WorldCup.MatchEvent
-import org.apache.spark.{SparkContext, SparkConf}
+import org.apache.spark.{SparkConf, SparkContext}
 import org.scalatest._
-import scala.collection.Map
 
+import scala.collection.Map
 
 class Ex4EventsByCountrySpec extends FunSuite with Matchers with BeforeAndAfterAll{
 
@@ -23,7 +24,7 @@ class Ex4EventsByCountrySpec extends FunSuite with Matchers with BeforeAndAfterA
     val matchEventData = DataLoader.loadEventData(sc)
     val index:Map[String, List[MatchEvent]] = Ex4EventsByCountry.getSearchIndex(matchEventData)
     index.get("GER") match {
-      case Some(events) => events.count(_.eventType.equals("goal")) should be (18)
+      case Some(events) => events.count(_.eventType.contains("goal")) should be (18)
       case None => assert(false)
     }
     index.get("BRA") match {

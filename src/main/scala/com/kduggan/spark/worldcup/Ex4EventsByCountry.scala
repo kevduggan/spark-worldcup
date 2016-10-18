@@ -2,8 +2,13 @@ package com.kduggan.spark.worldcup
 
 import com.kduggan.spark.worldcup.model.WorldCup.MatchEvent
 import org.apache.spark.rdd.RDD
+
 import scala.collection.Map
 
+/**
+ * build an inverted index that you could use for fast
+ * lookups
+ */
 object Ex4EventsByCountry {
 
   /**

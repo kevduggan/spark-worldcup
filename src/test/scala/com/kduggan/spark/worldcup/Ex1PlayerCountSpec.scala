@@ -1,6 +1,7 @@
 package com.kduggan.spark.worldcup
 
-import org.apache.spark.{SparkContext, SparkConf}
+import com.kduggan.spark.worldcup.data.DataLoader
+import org.apache.spark.{SparkConf, SparkContext}
 import org.scalatest._
 
 class Ex1PlayerCountSpec extends FunSuite with Matchers with BeforeAndAfterAll{

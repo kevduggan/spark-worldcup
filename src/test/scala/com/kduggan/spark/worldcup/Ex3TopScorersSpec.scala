@@ -1,10 +1,8 @@
 package com.kduggan.spark.worldcup
 
-import com.kduggan.spark.worldcup.model.WorldCup.MatchEvent
-import org.apache.spark.{SparkContext, SparkConf}
-import org.scalatest.{BeforeAndAfterAll, Matchers, FunSuite}
-
-import scala.collection.Map
+import com.kduggan.spark.worldcup.data.DataLoader
+import org.apache.spark.{SparkConf, SparkContext}
+import org.scalatest.{BeforeAndAfterAll, FunSuite, Matchers}
 
 class Ex3TopScorersSpec extends FunSuite with Matchers with BeforeAndAfterAll{
   val sparkConf = new SparkConf()

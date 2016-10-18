@@ -1,4 +1,4 @@
-package com.kduggan.spark.worldcup
+package com.kduggan.spark.worldcup.data
 
 import com.kduggan.spark.worldcup.model.WorldCup
 import com.kduggan.spark.worldcup.model.WorldCup.Player
