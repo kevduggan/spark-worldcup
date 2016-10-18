@@ -11,7 +11,8 @@ object Ex2TopClub {
   def getTopClub(players:RDD[Player]): String ={
     val clubs:RDD[(String, Int)] = players.map(player => (player.club, 1))
     val clubsReduced:RDD[(String, Int)] = clubs.reduceByKey(_ + _)
-    clubsReduced.sortBy[Int](_._2, false).map(_._1).first()
+    val ascending:Boolean = false
+    clubsReduced.sortBy[Int](_._2, ascending).map(_._1).first()
   }
 
 }

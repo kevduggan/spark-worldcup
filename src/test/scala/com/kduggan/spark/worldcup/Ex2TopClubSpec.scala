@@ -6,7 +6,7 @@ import org.scalatest._
 class Ex2TopClubSpec extends FunSuite with Matchers with BeforeAndAfterAll{
 
   val sparkConf = new SparkConf()
-    .setAppName("SparkWorldCupSpec-Ex2TopClubSpec")
+    .setAppName("Ex2TopClubSpec")
     .set("spark.driver.allowMultipleContexts", "true")
     .setMaster("local[2]")
 
@@ -16,7 +16,7 @@ class Ex2TopClubSpec extends FunSuite with Matchers with BeforeAndAfterAll{
     sc.stop()
   }
 
-  test("countWord should count the occurrences of each word"){
+  test("should calculate the more represented club"){
     val playerData = DataLoader.loadPlayerData(sc)
     val club = Ex2TopClub.getTopClub(playerData)
     club should be ("Barcelona")

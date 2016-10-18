@@ -8,7 +8,7 @@ import scala.collection.Map
 
 class Ex3TopScorersSpec extends FunSuite with Matchers with BeforeAndAfterAll{
   val sparkConf = new SparkConf()
-    .setAppName("SparkWorldCupSpec-Ex3EventsByCountry")
+    .setAppName("Ex3TopScorersSpec")
     .set("spark.driver.allowMultipleContexts", "true")
     .setMaster("local[2]")
 
@@ -18,7 +18,7 @@ class Ex3TopScorersSpec extends FunSuite with Matchers with BeforeAndAfterAll{
     sc.stop()
   }
 
-  test("events search"){
+  test("should get the top scorers"){
     val matchEventData = DataLoader.loadEventData(sc)
     val scorers:Array[(String, Int)] = Ex3TopScorers.topFiveScorers(matchEventData)
     scorers.length should be (5)

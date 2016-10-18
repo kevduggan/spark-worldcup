@@ -38,7 +38,7 @@ object SparkWorldCup {
     val countries:RDD[WorldCup.Country] = loadCountryData(sc)
     //val players:RDD[WorldCup.Player] = loadPlayerData(sc)
 
-    //val players = loadPlayerDataWithCountry(sc).collect.toSeq.writeCSVToFileName("players_1.csv");
+    //val players = loadPlayerDataWithCountry(sc).collect.toSeq.writeCSVToFileName("players.csv");
 //    val countries = loadCountryData(sc).collect.toSeq.writeCSVToFileName("countries.csv", header=Some(Seq("group","country","rank")));
 //      val players:Seq[WorldCup.Player] = loadPlayerData(sc).collect.toSeq
 //      players.writeCSVToFileName("players.csv")

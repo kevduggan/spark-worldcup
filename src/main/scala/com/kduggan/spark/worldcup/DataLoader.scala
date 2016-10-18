@@ -6,35 +6,33 @@ import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.{DataFrame, SQLContext}
 
+/**
+ * Functions to load in the raw data.
+ * Uses the spark_csv library that is built on top of spark_sql
+ *
+ * You do not need to touch this
+ */
 object DataLoader {
 
   def loadPlayerData(sc: SparkContext): RDD[Player] = {
-    val sqlContext = new SQLContext(sc)
-    val playerDataFrame:DataFrame = sqlContext.read
-    .format("com.databricks.spark.csv")
-    .option("header", "true") // Use first line of all files as header
-    .option("inferSchema", "true") // Automatically infer data types
-    .load("players.csv")
-    playerDataFrame.map(x=>Player(x.getAs[Int]("jersey"), x.getAs[String]("position"), x.getAs[Int]("age"), x.getAs[Int]("selections"), x.getAs[String]("club"), x.getAs[String]("name"), x.getAs[String]("country")))
+    loadCSV(sc, "players.csv").map(player => Player(player.getAs[Int]("jersey"), player.getAs[String]("position"), player.getAs[Int]("age"), player.getAs[Int]("selections"), player.getAs[String]("club"), player.getAs[String]("name"), player.getAs[String]("country")))
   }
 
   def loadCountryData(sc: SparkContext): RDD[WorldCup.Country] = {
-    val sqlContext = new SQLContext(sc)
-    val countryDataFrame:DataFrame = sqlContext.read
-    .format("com.databricks.spark.csv")
-    .option("header", "true") // Use first line of all files as header
-    .option("inferSchema", "true") // Automatically infer data types
-    .load("countries.csv")
-    countryDataFrame.map(x=>WorldCup.Country(x.getAs[String]("group"), x.getAs[String]("country"), x.getAs[String]("code"),x.getAs[Int]("rank")))
+      loadCSV(sc, "countries.csv").map(country => WorldCup.Country(country.getAs[String]("group"), country.getAs[String]("country"), country.getAs[String]("code"),country.getAs[Int]("rank")))
   }
 
   def loadEventData(sc: SparkContext): RDD[WorldCup.MatchEvent] = {
+    loadCSV(sc, "events.csv").map(event => WorldCup.MatchEvent(event.getAs[Int]("id"), event.getAs[String]("player"), event.getAs[String]("team"), event.getAs[String]("type"), event.getAs[Long]("created_at"), event.getAs[Int]("match_id")))
+  }
+
+  def loadCSV(sc: SparkContext, filename: String): DataFrame = {
     val sqlContext = new SQLContext(sc)
-    val eventDataFrame:DataFrame = sqlContext.read
-    .format("com.databricks.spark.csv")
-    .option("header", "true") // Use first line of all files as header
-    .option("inferSchema", "true") // Automatically infer data types
-    .load("events.csv")
-    eventDataFrame.map(x=>WorldCup.MatchEvent(x.getAs[Int]("id"), x.getAs[String]("player"), x.getAs[String]("team"), x.getAs[String]("type"), x.getAs[Long]("created_at"), x.getAs[Int]("match_id")))
+    val playerDataFrame: DataFrame = sqlContext.read
+      .format("com.databricks.spark.csv")
+      .option("header", "true")
+      .option("inferSchema", "true")
+      .load(filename)
+    playerDataFrame
   }
 }

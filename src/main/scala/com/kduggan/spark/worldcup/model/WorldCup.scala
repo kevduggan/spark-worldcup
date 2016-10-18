@@ -1,8 +1,11 @@
 package com.kduggan.spark.worldcup.model
 
+/**
+ * case classes needed in the exercises
+ */
 object WorldCup {
 
-  case class Country(val group: String, val country: String, val code: String, val rank: Int)
-  case class Player(val jersey:Int, val position:String, val age:Int, val selections:Int, val club:String, val name:String, val country:String)
-  case class MatchEvent(val id:Int, val player:String, val team:String, val eventType:String, val createdAt:Long, val match_id:Int)
+  case class Country(group: String, country: String, code: String, rank: Int)
+  case class Player(jersey:Int, position:String, age:Int, selections:Int, club:String, name:String, country:String)
+  case class MatchEvent(id:Int, player:String, team:String, eventType:String, createdAt:Long, match_id:Int)
 }

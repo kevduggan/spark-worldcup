@@ -6,7 +6,7 @@ import org.scalatest._
 class Ex1PlayerCountSpec extends FunSuite with Matchers with BeforeAndAfterAll{
 
   val sparkConf = new SparkConf()
-    .setAppName("SparkWorldCupSpec-Ex1PlayerCountSpec")
+    .setAppName("Ex1PlayerCountSpec")
     .set("spark.driver.allowMultipleContexts", "true")
     .setMaster("local[2]")
 
@@ -16,7 +16,7 @@ class Ex1PlayerCountSpec extends FunSuite with Matchers with BeforeAndAfterAll{
     sc.stop()
   }
 
-  test("countWord should count the occurrences of each word"){
+  test("count the players with names beginning with H"){
     val playerData = DataLoader.loadPlayerData(sc)
     val playerCount = Ex1PlayerCount.getPlayersBeginningWith("H", playerData)
     playerCount should be (24)
