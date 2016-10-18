@@ -8,14 +8,14 @@ We are going to use the supplied data sets to calculate some of the [stats](http
 
 There are 4 exercises to complete. The solutions only require a few lines so if you find yourself writing a lot of code then stop!
 
-The tests are fully written. These tests start up spark, load in the data (creating and RDD for you) and
+The tests are fully written. These tests start up Spark, load in the data (creating and RDD for you) and
 call the function to compute the results. Your objective is to implement the function and get the tests to pass... 
 
 All the Spark functions you will need are in the following docs:
 * [RDD](https://spark.apache.org/docs/1.4.1/api/scala/index.html#org.apache.spark.rdd.RDD)
 * [PairedRDD](https://spark.apache.org/docs/1.4.1/api/scala/index.html#org.apache.spark.rdd.PairRDDFunctions)
 
-Just think how you would solve it without Spark and find an equivalent function
+Just think how you would solve it without Spark and find an equivalent function.
 
 ### Setup
 You can run with [SBT](http://www.scala-sbt.org/0.13/docs/Setup.html) directly from the command line. 
