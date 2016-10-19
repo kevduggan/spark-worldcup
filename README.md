@@ -19,5 +19,22 @@ Just think how you would solve it without Spark and find an equivalent function.
 
 ### Setup
 You can run with [SBT](http://www.scala-sbt.org/0.13/docs/Setup.html) directly from the command line. 
+```sbt test```
+should give you the output of
+```
+[info] Run completed in 5 seconds, 108 milliseconds.
+[info] Total number of tests run: 4
+[info] Suites: completed 4, aborted 0
+[info] Tests: succeeded 0, failed 4, canceled 0, ignored 0, pending 0
+[info] *** 4 TESTS FAILED ***
+[error] Failed: Total 4, Failed 4, Errors 0, Passed 0
+[error] Failed tests:
+[error] 	com.kduggan.spark.worldcup.Ex2TopClubSpec
+[error] 	com.kduggan.spark.worldcup.Ex1PlayerCountSpec
+[error] 	com.kduggan.spark.worldcup.Ex4EventsByCountrySpec
+[error] 	com.kduggan.spark.worldcup.Ex3TopScorersSpec
+[error] (test:test) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 12 s, completed 19-Oct-2016 10:30:44
+```
 Alternatively you can import it into Intellij (the [plugin](https://github.com/mpeltonen/sbt-idea) is already configured in this project).
 Any Eclipse people can go [here](https://github.com/typesafehub/sbteclipse).
