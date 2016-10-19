@@ -24,11 +24,11 @@ class Ex4EventsByCountrySpec extends FunSuite with Matchers with BeforeAndAfterA
     val matchEventData = DataLoader.loadEventData(sc)
     val index:Map[String, List[MatchEvent]] = Ex4EventsByCountry.getSearchIndex(matchEventData)
     index.get("GER") match {
-      case Some(events) => events.count(_.eventType.contains("goal")) should be (18)
+      case Some(events) => events.count(_.eventType.contains("goal")) shouldBe 18
       case None => assert(false)
     }
     index.get("BRA") match {
-      case Some(events) => events.count(_.eventType.contains("card")) should be (14)
+      case Some(events) => events.count(_.eventType.contains("card")) shouldBe 14
       case None => assert(false)
     }
   }

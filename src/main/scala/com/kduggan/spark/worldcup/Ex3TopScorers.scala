@@ -10,6 +10,7 @@ object Ex3TopScorers {
 
   /**
    * Top 5 scorers with number of goals scored by each
+   * Tip: there are inconsistencies in the source data with capitalisation
    */
   def topFiveScorers(matchEvents:RDD[MatchEvent]): Array[(String, Int)] ={
     val keyValues = matchEvents.filter(event => event.eventType.contains("goal")).map(matchEvent => (matchEvent.player.toLowerCase, 1))

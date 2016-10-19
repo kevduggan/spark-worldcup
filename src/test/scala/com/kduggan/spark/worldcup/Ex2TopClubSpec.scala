@@ -1,6 +1,8 @@
 package com.kduggan.spark.worldcup
 
 import com.kduggan.spark.worldcup.data.DataLoader
+import com.kduggan.spark.worldcup.model.WorldCup.Player
+import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 import org.scalatest._
 
@@ -18,7 +20,7 @@ class Ex2TopClubSpec extends FunSuite with Matchers with BeforeAndAfterAll{
   }
 
   test("should calculate the more represented club"){
-    val playerData = DataLoader.loadPlayerData(sc)
+    val playerData:RDD[Player] = DataLoader.loadPlayerData(sc)
     val club = Ex2TopClub.getTopClub(playerData)
     club should be ("Barcelona")
   }

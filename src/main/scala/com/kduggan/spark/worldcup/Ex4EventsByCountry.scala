@@ -7,7 +7,7 @@ import scala.collection.Map
 
 /**
  * build an inverted index that you could use for fast
- * lookups
+ * lookups for match events by country
  */
 object Ex4EventsByCountry {
 

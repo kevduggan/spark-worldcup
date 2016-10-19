@@ -4,7 +4,7 @@ import com.kduggan.spark.worldcup.model.WorldCup.Player
 import org.apache.spark.rdd.RDD
 
 /**
- * More involved
+ * More involved exercise
  *
  * Tip: read http://spark.apache.org/docs/latest/programming-guide.html#working-with-key-value-pairs
  */
