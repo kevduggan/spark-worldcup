@@ -15,7 +15,7 @@ object Ex4EventsByCountry {
    * you could use groupByKey..but..there is a more performant way!
    */
   def getSearchIndex(matchEvents:RDD[MatchEvent]): Map[String, List[MatchEvent]] ={
-    val keyValues = matchEvents.map(matchEvent => (matchEvent.team, matchEvent))
+    val keyValues = matchEvents.map(matchEvent => (matchEvent.country, matchEvent))
     val append = (s: List[MatchEvent], v: MatchEvent) => v :: s
     val mergePartitionSets = (p1: List[MatchEvent], p2: List[MatchEvent]) => p1 ++ p2
     val invertedIndex:RDD[(String, List[MatchEvent])] =  keyValues.aggregateByKey(List[MatchEvent]())(append, mergePartitionSets)
