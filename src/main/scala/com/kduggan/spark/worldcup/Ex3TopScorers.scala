@@ -13,9 +13,6 @@ object Ex3TopScorers {
    * Tip: there are inconsistencies in the source data with capitalisation
    */
   def topFiveScorers(matchEvents:RDD[MatchEvent]): Array[(String, Int)] ={
-    val keyValues = matchEvents.filter(event => event.eventType.contains("goal")).map(matchEvent => (matchEvent.player.toLowerCase, 1))
-    val scorers:RDD[(String, Int)] = keyValues.reduceByKey(_ + _)
-    val ascending:Boolean = false
-    scorers.sortBy[Int](_._2, ascending).take(5)
+    ???
   }
 }
