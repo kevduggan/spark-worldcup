@@ -37,4 +37,5 @@ should give you the output of
 [error] Total time: 12 s, completed 19-Oct-2016 10:30:44
 ```
 Alternatively you can import it into Intellij (the [plugin](https://github.com/mpeltonen/sbt-idea) is already configured in this project).
+
 Any Eclipse people can go [here](https://github.com/typesafehub/sbteclipse).
