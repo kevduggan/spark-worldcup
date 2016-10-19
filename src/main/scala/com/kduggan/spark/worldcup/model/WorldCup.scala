@@ -7,5 +7,5 @@ object WorldCup {
 
   case class Country(group: String, country: String, code: String, rank: Int)
   case class Player(jersey:Int, position:String, age:Int, selections:Int, club:String, name:String, country:String)
-  case class MatchEvent(id:Int, player:String, team:String, eventType:String, createdAt:Long, match_id:Int)
+  case class MatchEvent(id:Int, player:String, country:String, eventType:String, createdAt:Long, match_id:Int)
 }

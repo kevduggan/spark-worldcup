@@ -11,7 +11,7 @@ object Ex1PlayerCount {
   /**
    * How many players names begin the supplied letter?
    */
-  def getPlayersBeginningWith(letter:String, players:RDD[Player]): Int ={
+  def getPlayersBeginningWith(letter:String, players:RDD[Player]): Long ={
     ???
   }
 

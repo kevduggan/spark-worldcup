@@ -47,5 +47,3 @@ org.scalastyle.sbt.ScalastylePlugin.Settings
 org.scalastyle.sbt.PluginKeys.failOnError := true
 
 org.scalastyle.sbt.PluginKeys.config <<= baseDirectory { _ / "src/main/config" / "scalastyle-config.xml" }
-
-wartremoverErrors ++= Warts.allBut(Wart.NoNeedForMonad, Wart.AsInstanceOf, Wart.IsInstanceOf)
